@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "@maxmind/geoip2-node": "^6.3.4",
+    "express": "^5.2.1",
     "node-cache": "^5.1.2"
   }
 }
