@@ -1,0 +1,17 @@
+{
+  "name": "cb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vpn.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^6.3.4",
+    "node-cache": "^5.1.2"
+  }
+}
